@@ -1,0 +1,47 @@
+{
+  "Courses": [
+    {
+      "title": "API",
+      "hours": "8h",
+      "id": 1
+    },
+    {
+      "title": "scrum",
+      "hours": "3h",
+      "id": 2
+    },
+    {
+      "title": "istqb",
+      "hours": "7h",
+      "id": 3
+    },
+    {
+      "title": "sql",
+      "hours": "2h",
+      "id": 4
+    },
+    {
+      "title": "selenium",
+      "hours": "9h",
+      "id": 5
+    }
+  ],
+  "languages": [
+    {
+      "title": "java",
+      "instructor": "esraa"
+    },
+    {
+      "title": "javascript",
+      "instructor": "eman"
+    },
+    {
+      "title": "php",
+      "instructor": "asmaa"
+    },
+    {
+      "title": "c++",
+      "instructor": "abrar"
+    }
+  ]
+}
